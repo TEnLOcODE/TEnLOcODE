@@ -15,7 +15,7 @@
   <a href="https://www.youtube.com/channel/UC5JlQQ9yH2Q2tX1QKeaw5eg?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC5JlQQ9yH2Q2tX1QKeaw5eg?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UC5JlQQ9yH2Q2tX1QKeaw5eg">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCbfGHhyeHpKXF5rl1cRfvbg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC5JlQQ9yH2Q2tX1QKeaw5eg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://discord.gg/gmtqE4ScJB">
     <img alt="followers" title="Join Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://github.com/TEnLOcODE">
