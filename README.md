@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DE2C57&lines=TEnLOcRAFT+on+YouTube;Python+and+Web+developer.+;%2B3+years+of+coding+experience;I+share+some+cool+stuff+on+YouTube&center=true&width=380&height=45"></a>
 </p>
-<h4>acually i will follow who follows me</h4>
+<h4 style="text-align: center; background: -webkit-linear-gradient(120deg, #fc4a1a, #f7b733);">acually i will follow who follows me</h4>
 <!-- Badges template - https://github.com/badges/shields -->
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
