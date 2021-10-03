@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DE2C57&lines=TEnLOcRAFT+on+YouTube;Python+and+Web+developer.+;%2B3+years+of+coding+experience;I+share+some+cool+stuff+on+YouTube&center=true&width=380&height=45"></a>
 </p>
 <p align="center">
-  <img style="width:500px;height:100px;" src="https://r69.cooltext.com/rendered/cooltext394534955510512.png" width="500" height="100" alt="actually, i will follow back who follows me">
+  <img style="width:1000px;height:100px;" src="aiwfbwfm.png" width="1000" height="100" alt="actually, i will follow back who follows me">
 </p>
 <!-- Badges template - https://github.com/badges/shields -->
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
